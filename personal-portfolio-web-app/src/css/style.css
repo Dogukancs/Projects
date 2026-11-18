@@ -1,0 +1,26 @@
+body {
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    margin-top: 20px;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.btn {
+    margin-right: 5px;
+}
