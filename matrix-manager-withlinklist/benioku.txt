@@ -1,0 +1,18 @@
+Derleme ve Calistirma:
+1. Proje ana dizininde terminali acip ardindan "mingw32-make" komutunu calistirin.
+2. Derleme sorunsuz tamamlanirsa "bin\program.exe" olusacaktir.
+3. Programi proje ana dizininden "bin\program.exe" seklinde calistirip test edebilir ve kullanabilirsiniz ^^.
+
+Kontroller:
+- Ana Menu:
+  w / s : Dugumler arasinda yukari / asagi gezinme isi
+  q     : Secili dugumun onune rastgele matris dugumu eklemece
+  e     : Secili dugumun arkasina rastgele matris dugumu eklemece
+  f     : Secili dugumun islem menusune geçiş
+  x     : Degisiklikleri kayitlar.txt dosyasina kaydedip cikma
+
+- Dugum Islemleri Menusu:
+  1     : Satir silme menusu (w/s ile gezinme, d ile silme, x ile ana menuye donus)
+  2     : Sutun silme menusu (a/d ile gezinme, f ile silme, x ile ana menuye donus)
+  3     : Secilen satir ve sutunun elemanlarini karsilikli degistirme (kare matris kontrolü de var tabi)
+  x     : Dugum gezilimine donus (go back to Ana Menu :)
